@@ -109,7 +109,8 @@ The final required files are as follows:
 
 > `*`: This model is also used to evaluate the new task of **grounding without object names**, with performances of 26.5% and 21.6% for acc@0.25 and acc@0.5.    
 `1`: The log of the performance we **reported in the paper**.   
-`2`: The log of the performance we **retrain the model** with this open-released repository.
+`2`: The log of the performance we **retrain the model** with this open-released repository.   
+> Note: To find the `overall performance`, please refer to [issue3](https://github.com/yanmin-wu/EDA/issues/3).
 
 ## 4. Training
 
